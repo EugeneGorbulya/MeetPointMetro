@@ -1,0 +1,8 @@
+url = "https://yandex.ru/metro/moscow?scheme_id=sc34974011"
+good_st = "scheme-objects-view__label"
+bad_st = "scheme-objects-view__label _warning"
+xpath_from = "/html/body/div[2]/div/div[2]/div[3]/div/div/div[1]/div[2]/div/div[1]/div[1]/div/div[2]/div/span/span/input"
+xpath_from_cl = "/html/body/div[6]/div/div/div/div/div[1]/ul/div"
+xpath_to = "/html/body/div[2]/div/div[2]/div[3]/div/div/div[1]/div[2]/div/div[1]/div[2]/div/div[2]/div/span/span/input"
+xpath_to_cl = "/html/body/div[6]/div/div/div/div/div[1]/ul/div"
+xpath_result = "/html/body/div[2]/div/div[2]/div[3]/div/div/div[1]/div[3]/div/div/div[1]/div[1]"
